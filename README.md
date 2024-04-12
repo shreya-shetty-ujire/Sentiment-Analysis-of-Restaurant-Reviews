@@ -1,4 +1,4 @@
-Overview:
+**Overview:**
 This project focuses on sentiment analysis of restaurant reviews using advanced machine learning techniques and natural language processing (NLP). By analyzing customer sentiments extracted from unstructured text data, the goal is to gain valuable insights into customer experiences and preferences within the restaurant industry.
 
 **Key Features:**
